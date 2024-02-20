@@ -13,7 +13,7 @@ public class Day_30_containsDuplicate {
                 break;
             }
         }
-        //use ternary operator
+        //use ternary operator here
 
         System.out.println(flag ? "Contains Duplicate" : "No Duplicate");
 
