@@ -13,5 +13,6 @@ public class Day_40_FirstUniqueCharacterInString {
                 break;
             }
         }
+        System.out.println("Done");
     }
 }
